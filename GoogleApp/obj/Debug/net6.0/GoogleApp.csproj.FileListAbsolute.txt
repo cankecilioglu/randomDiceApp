@@ -1,0 +1,15 @@
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/GoogleApp
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/GoogleApp.deps.json
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/GoogleApp.runtimeconfig.json
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/GoogleApp.dll
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/ref/GoogleApp.dll
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/bin/Debug/net6.0/GoogleApp.pdb
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.csproj.AssemblyReference.cache
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.AssemblyInfoInputs.cache
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.AssemblyInfo.cs
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.csproj.CoreCompileInputs.cache
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.dll
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/ref/GoogleApp.dll
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.pdb
+/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/Debug/net6.0/GoogleApp.genruntimeconfig.cache
