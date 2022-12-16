@@ -16,19 +16,19 @@ Console.WriteLine("Ortalama: "+ average);
 switch (average)
 {
    case <3:
-      Console.WriteLine("Crit Fail attınız. Kendinize hasarınız");
+      Console.WriteLine("Crit Fail attınız. Kendinize Hasarınız: "+ average);
       break;
    case <8:
-      Console.WriteLine("Zayıf hasar veriyorsunuz. Rakip size zort diyor.");
+      Console.WriteLine("Zayıf hasar veriyorsunuz. Hasarınız: "+ average);
       break;
    case <12:
-      Console.WriteLine("Orta şekerli hasar verdiniz. Helal la");
+      Console.WriteLine("Orta dereceli hasar verdiniz. Hasarınız: "+ average);
    break;
    case <19:
-      Console.WriteLine("Yüksek hasar veriyorsunuz. Rakip zort etti.");
+      Console.WriteLine("Yüksek hasar veriyorsunuz. Hasarınız: "+ average);
    break;
    case <21:
-      Console.WriteLine("Crit hasar veriyorsunuz ulaaaa. Sümüğü çıktı usta");
+      Console.WriteLine("İnanılmazz!!! Crit hasar veriyorsunuz. Hasarınız: "+ average);
    break;
 }
 Console.ReadLine();
