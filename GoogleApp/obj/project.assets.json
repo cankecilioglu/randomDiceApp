@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/feyyum/.nuget/packages/": {}
+    "/home/cankecilioglu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/GoogleApp.csproj",
+      "projectUniqueName": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/GoogleApp.csproj",
       "projectName": "GoogleApp",
-      "projectPath": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/GoogleApp.csproj",
-      "packagesPath": "/Users/feyyum/.nuget/packages/",
-      "outputPath": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/obj/",
+      "projectPath": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/GoogleApp.csproj",
+      "packagesPath": "/home/cankecilioglu/.nuget/packages/",
+      "outputPath": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/feyyum/.nuget/NuGet/NuGet.Config"
+        "/home/cankecilioglu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,31 +49,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/feyyum/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }

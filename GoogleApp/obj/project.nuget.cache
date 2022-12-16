@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iyuppH+wsYsJGii/epLb3/2c90LlviTW7hvuw6IUTKM5QegmeeAdYbf/ndbaCHulilVYkei6uwY3TcTwvUwOCg==",
+  "dgSpecHash": "GSD/ZGqk5wHZtsL+kn/yqtS4AroFgmeVoAbQCE+ir7yaEGwY1lxxk3ehpeY+/wIjDlMkTqPVy9uPr1igQyPqmQ==",
   "success": true,
-  "projectFilePath": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/GoogleApp.csproj",
-  "expectedPackageFiles": [
-    "/Users/feyyum/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/feyyum/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/feyyum/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/GoogleApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

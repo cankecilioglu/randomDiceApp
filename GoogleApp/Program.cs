@@ -20,21 +20,21 @@
 Console.WriteLine("Lütfen atmak istediğiniz zar sayısını giriniz. " +
                   "Uygulamadan çıkmak için q tuşuna basıp enter tuşuna basınız.");
 
-int dice_count = GetInput();
+int diceCount = GetInput();
 
 Console.Clear();
 
-int[] dice_results = new int[dice_count];
+int[] diceResults = new int[diceCount];
 Random randNumber = new Random();
 
-foreach (var dice  in dice_results.Select(((count, index) => new {index, count})))
+foreach (var dice  in diceResults.Select(((count, index) => new {index, count})))
 {
    int rand = randNumber.Next(0, 21);
    Console.WriteLine(rand);
-   dice_results[dice.index] = rand;
+   diceResults[dice.index] = rand;
 }
 
-int average = Convert.ToInt32(dice_results.Sum() / dice_results.Length);
+int average = Convert.ToInt32(diceResults.Sum() / diceResults.Length);
 Console.WriteLine("Ortalama: "+ average);
 switch (average)
 {
