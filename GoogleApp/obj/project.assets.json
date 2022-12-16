@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/cankecilioglu/.nuget/packages/": {}
+    "/Users/feyyum/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/GoogleApp.csproj",
+      "projectUniqueName": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/GoogleApp.csproj",
       "projectName": "GoogleApp",
-      "projectPath": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/GoogleApp.csproj",
-      "packagesPath": "/home/cankecilioglu/.nuget/packages/",
-      "outputPath": "/home/cankecilioglu/RiderProjects/GoogleApp/GoogleApp/obj/",
+      "projectPath": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/GoogleApp.csproj",
+      "packagesPath": "/Users/feyyum/.nuget/packages/",
+      "outputPath": "/Users/feyyum/Desktop/randomDiceApp/GoogleApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/cankecilioglu/.nuget/NuGet/NuGet.Config"
+        "/Users/feyyum/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,16 +49,31 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.12, 6.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[6.0.12, 6.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.12, 6.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/feyyum/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,4 +1,27 @@
-﻿int dice_count = Convert.ToInt32(Console.ReadLine());
+﻿static int GetInput()
+{
+   try
+   {
+      string? input = Console.ReadLine();
+      if (input == "q") Environment.Exit(0);
+      int convertedInput = Convert.ToInt32(input);
+      if (convertedInput == 0) throw new Exception("Atılan zar değeri 0 olamaz.");
+      return convertedInput;
+   }
+   catch (Exception)
+   {
+      Console.WriteLine("Değer alınırken hata ile karşılaşıldı. Hata mesajı: ");
+      Console.WriteLine("Lütfen tekrar deneyiniz!");
+   }
+
+   return GetInput();
+}
+
+Console.WriteLine("Lütfen atmak istediğiniz zar sayısını giriniz. " +
+                  "Uygulamadan çıkmak için q tuşuna basıp enter tuşuna basınız.");
+
+int dice_count = GetInput();
+
 Console.Clear();
 
 int[] dice_results = new int[dice_count];
